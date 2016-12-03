@@ -1,1 +1,1 @@
-# facial_recognition_with_identity_mapping
+Facial recognition application that utilizes pre-cached social media data and the FullContact API to match an input image with associated personal information
